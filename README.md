@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dina Sabrah
 - 👀 I’m interested in Data Analysis; using Python & its libraries, SQL, A/B Testing, Excel, Google sheets & Tableau
-- 🌱 I’m currently a Ph.D. researcher in pure mathematics & a Data Analysit
+- 🌱 I’m currently a Ph.D. researcher in pure mathematics & a Data Analyst
 - 💞️ I’m looking to collaborate on Data Analysis projects & research
 - 📫 How to reach me > dinasabra1111@gmail.com
 
